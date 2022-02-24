@@ -93,6 +93,6 @@ Guidance on preparing batch job files and submitting jobs using batch job system
 
 ### Licence and acknowledgements
 
-These materials created as part of the PerMedCoE project are free cultural works licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+These materials were created as part of the PerMedCoE project are free cultural works licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 The PerMedCoE project has received funding from the European Union’s Horizon 2020 research and innovation programme under the grant agreement Nº 951773.
